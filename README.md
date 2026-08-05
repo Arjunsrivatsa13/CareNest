@@ -57,52 +57,58 @@ Care Nest bridges the massive gap in mental health accessibility across India by
 
 ## ✨ Key Features
 
-🤖 AI Chat Support
-Multi-turn empathetic AI conversations  
-Real-time distress severity scoring (0–100)  
-Confidence-weighted triage output  
-Culturally aware responses for Indian users  
-Automatic fallback across 6 AI model chain
+### 🤖 **AI Chat Support**
+
+- Multi-turn empathetic AI conversations
+- Real-time distress severity scoring (0–100)
+- Confidence-weighted triage output
+- Culturally aware responses for Indian users
+- Automatic fallback across 6 AI model chain
 <img width="1917" height="908" alt="Screenshot 2026-08-05 222503" src="https://github.com/user-attachments/assets/6edf89d7-b220-4f45-9ea0-1185772af782" />
 
-🚨 Crisis Triage Engine
-3-level distress classification: LOW / MEDIUM / HIGH  
-100+ weighted indicators per distress level  
-Instant crisis helpline surfacing (Kiran, iCall, Sneha)  
-Structured JSON audit trail per message  
-Zero-latency safety escalation protocol  
+### 🚨 **Crisis Triage Engine**
 
-📓 Smart Journal
-Rich-text guided journaling  
-Mood-tagged personal entries  
-Sentiment-aware reflection prompts  
-Daily reflection streak tracking  
-Private entries for each user
+- 3-level distress classification: LOW / MEDIUM / HIGH
+- 100+ weighted indicators per distress level
+- Instant crisis helpline surfacing (Kiran, iCall, Sneha)
+- Structured JSON audit trail per message
+- Zero-latency safety escalation protocol  
+
+### 📓 **Smart Journal**
+
+- Rich-text guided journaling
+- Mood-tagged personal entries
+- Sentiment-aware reflection prompts
+- Daily reflection streak tracking
+- Private entries for each user
 <img width="1917" height="906" alt="Screenshot 2026-08-05 222625" src="https://github.com/user-attachments/assets/66ca28f9-5463-4adf-913f-254735443451" />
 
-📊 Wellness Analytics
-Interactive mood trend charts (Recharts)  
-Distress heatmaps over time  
-Session time tracking  
-Assessment score history  
-Personalized weekly wellness summaries
+### 📊 **Wellness Analytics**
+
+- Interactive mood trend charts (Recharts)
+- Distress heatmaps over time
+- Session time tracking
+- Assessment score history
+- Personalized weekly wellness summaries
 <img width="1902" height="907" alt="Screenshot 2026-08-05 222701" src="https://github.com/user-attachments/assets/aac995cb-5036-4a67-873c-46030dd5605f" />
 
-🎮 Relaxation Zone
-Bubble Pop — mindful stress-relief game  
-Lotus Pond — calming water ripple experience  
-Zen Rake — digital sand garden  
-Star Map — breathing visualization  
-Color Ripple — sensory relaxation tool  
-Memory Game — cognitive distraction activity
+### 🎮 **Relaxation Zone**
+
+- Bubble Pop — mindful stress-relief game
+- Lotus Pond — calming water ripple experience
+- Zen Rake — digital sand garden
+- Star Map — breathing visualization
+- Color Ripple — sensory relaxation tool
+- Memory Game — cognitive distraction activity
 <img width="1900" height="907" alt="Screenshot 2026-08-05 222758" src="https://github.com/user-attachments/assets/a88d8c21-b142-49b2-b899-325ab152f670" />
 
-🧪 Mental Health Assessment
-Standardized self-assessment questionnaires  
-Scored results with interpretive feedback  
-Historical tracking across sessions  
-Recommended next steps based on score bands  
-Admin dashboard for aggregate analytics
+### 🧪 **Mental Health Assessment**
+
+- Standardized self-assessment questionnaires
+- Scored results with interpretive feedback
+- Historical tracking across sessions
+- Recommended next steps based on score bands
+- Admin dashboard for aggregate analytics
 <img width="1897" height="910" alt="Screenshot 2026-08-05 222850" src="https://github.com/user-attachments/assets/f40121e7-3029-4c20-8f62-2df9b9f501d4" />
 
 
