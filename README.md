@@ -72,7 +72,8 @@ Care Nest bridges the massive gap in mental health accessibility across India by
 - 100+ weighted indicators per distress level
 - Instant crisis helpline surfacing (Kiran, iCall, Sneha)
 - Structured JSON audit trail per message
-- Zero-latency safety escalation protocol  
+- Zero-latency safety escalation protocol
+<img width="1901" height="910" alt="Screenshot 2026-08-05 231410" src="https://github.com/user-attachments/assets/9d8f2808-7f50-47b2-b803-217ae0ae5654" />
 
 ### 📓 **Smart Journal**
 
