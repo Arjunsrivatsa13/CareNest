@@ -1,5 +1,5 @@
 # 🌿 Care Nest — AI Mental Health Triage & Support System
-<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/2a0c54f0-90a4-43ef-a19b-dd7e7602ce6d" />
+<img width="1912" height="857" alt="Screenshot 2026-07-26 190721" src="https://github.com/user-attachments/assets/0237858a-1068-4e8e-b108-906b81622d38" />
 
 <div align="center">
 
